@@ -13,7 +13,7 @@ class SpringBootJenkinsApplicationTests {
 	public static Logger logger = LoggerFactory.getLogger(SpringBootJenkinsApplication.class);	
 
 	@Test
-	void contextLoads() {
+	 contextLoads() {
 		logger.info("Executing Testcase");
 		logger.info("Executing Testcase");
 
